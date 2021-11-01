@@ -1,13 +1,9 @@
 ## NeptuniumMC
 
 ```markdown
-Ciao, Siamo Un Server Di Minecraft Aperto Da Poco E Ci Presentiamo Noi Staffer
+Ciao, Siamo Un Server Di Minecraft Aperto Da Poco è Ci Presentiamo Noi Staffer
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
+- Fouder Xx_Stef_xX
 - List
 
 1. Numbered
