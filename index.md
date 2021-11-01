@@ -1,7 +1,7 @@
 ## NeptuniumMC
 
 ```markdown
-Ciao, Siamo Un Server Di Minecraft Aperto Da Poco è Ci Presentiamo Noi Staffer
+Ciao, Siamo Un Server Di Minecraft Aperto Da Poco E Ci Presentiamo Noi Staffer
 
 - Founder Xx_Stef_xX
 - Co-Founder esplat47
@@ -12,7 +12,18 @@ Ciao, Siamo Un Server Di Minecraft Aperto Da Poco è Ci Presentiamo Noi Staffer
 - Mod ImagineBeenTaken
 ```
 
-### Il nostro progetto
+### Il Nostro Progetto
 
-NeptuniumMC è un server Minecraft che hosterà al pubblico, per più informazioni andare nei nostri social.
+NeptuniumMC è Un Server Minecraft Che Ha Diverse Modalità 
+- BedWars
+- KitPvP
+- Vanilla
+- Practice
 
+### Se Votele Entrare Nei Nostri Social 
+- Discord : https://dsc.gg/neptuniumMC
+- Telegram Chat : https://t.me/NeptuniumMCChat
+- Telegram News : https://t.me/NeptuniumMC
+
+### Se Volete Entrare Nel Server Ecco L'IP
+- neptuniummc.it
