@@ -3,8 +3,8 @@
 ```markdown
 Ciao, Siamo Un Server Di Minecraft Aperto Da Poco è Ci Presentiamo Noi Staffer
 
-- Fouder Xx_Stef_xX
-- List
+- Founder Xx_Stef_xX
+- Co-Founder esplat47
 
 1. Numbered
 2. List
