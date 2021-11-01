@@ -5,13 +5,11 @@ Ciao, Siamo Un Server Di Minecraft Aperto Da Poco è Ci Presentiamo Noi Staffer
 
 - Founder Xx_Stef_xX
 - Co-Founder esplat47
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://imgur.com/FJp6gRI.png)
+- Pluginner FredBear07
+- Pluginner Itscz_
+- Admin ImmaUseless
+- Admin MrBlueee
+- Mod ImagineBeenTaken
 ```
 
 ### Il nostro progetto
