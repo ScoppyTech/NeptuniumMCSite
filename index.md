@@ -1,32 +1,47 @@
-## NeptuniumMC
+   NeptuniumMC | Home        
 
-```markdown
-Ciao, Siamo Un Server Di Minecraft Aperto Da Poco E Ci Presentiamo Noi Staffer
+![CoralMC Forum](https://i.imgur.com/NZ3U19S.png)
 
-- Founder Xx_Stef_xX
-- Co-Founder esplat47
-- Pluginner FredBear07
-- Pluginner Itscz_
-- Admin ImmaUseless
-- Admin MrBlueee
-- Mod ImagineBeenTaken
-```
+IP copiato!
+===========
 
-### Il Nostro Progetto
+Speriamo di vederti online ;)
+-----------------------------
 
-```
-NeptuniumMC è Un Server Minecraft Che Ha Diverse Modalità 
-- BedWars
-- KitPvP
-- Vanilla
-- Practice
-```
+Close
 
-### Se Votele Entrare Nei Nostri Social 
-```
-- Discord : https://dsc.gg/neptuniumMC
-- Telegram Chat : https://t.me/NeptuniumMCChat
-- Telegram News : https://t.me/NeptuniumMC
-```
-### Se Volete Entrare Nel Server Ecco L'IP
-- neptuniummc.it
+![CoralMC Forum](https://i.imgur.com/NZ3U19S.png)
+
+CORALMC.IT
+----------
+
+Entra con altri player
+
+[
+
+TEAMSPEAK SERVER
+----------------
+
+Entra nella nostra community!
+
+](ts3server://ts.coralmc.it)
+
+[Forum](https://www.coralmc.it/forum/index.php) [Discord](https://discord.com/invite/MGW42TXHBd) [Store](https://store.coralmc.it) [Vota](https://www.minecraft-italia.it/server/coralmc) [Telegram](https://t.me/CoralMC)
+
+Gioca ora su coralmc.it
+
+CoralMC è un server nato nel marzo 2020 per rendere il periodo di lockdown il meno frustante possibile. Dato il successo riscontrato abbiamo deciso di ampliarci sempre di più per competere tra i migliori server italiani. Divertiti esplorando il nostro forum!
+
+![](img/logo.png)
+
+[![DMCA.com Protection Status](https://images.dmca.com/Badges/dmca-badge-w100-5x1-03.png?ID=8dd1ab29-6875-44ac-bd79-156450972f7d)](https://www.dmca.com/Protection/Status.aspx?ID=8dd1ab29-6875-44ac-bd79-156450972f7d&refurl=https://www.coralmc.it/forum/index.php)
+
+[
+
+](https://www.dmca.com/Protection/Status.aspx?ID=8dd1ab29-6875-44ac-bd79-156450972f7d&refurl=https://www.coralmc.it/forum/index.php)
+
+[](https://www.dmca.com/Protection/Status.aspx?ID=8dd1ab29-6875-44ac-bd79-156450972f7d&refurl=https://www.coralmc.it/forum/index.php)
+
+[](https://www.dmca.com/Protection/Status.aspx?ID=8dd1ab29-6875-44ac-bd79-156450972f7d&refurl=https://www.coralmc.it/forum/index.php)
+
+ [function copy() { document.getElementById("ipServer").select(), document.execCommand("copy") document.getElementById("card").style.opacity = "1"; document.getElementById("card").style.visibility = "visible"; document.getElementById("copied").style.opacity = "1"; document.getElementById("copied").style.visibility = "visible"; }   $('html, body').animate({ scrollTop: $("#top").offset().top }, 2000);  function closed() { document.getElementById("card").style.visibility = "hidden"; document.getElementById("card").style.opacity = "0"; document.getElementById("copied").style.opacity = "0"; document.getElementById("copied").style.visibility = "hidden"; }](https://www.dmca.com/Protection/Status.aspx?ID=8dd1ab29-6875-44ac-bd79-156450972f7d&refurl=https://www.coralmc.it/forum/index.php)
